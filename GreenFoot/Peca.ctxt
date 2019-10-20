@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Peca
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Peca\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Peca\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ casasDisponiveis()
+comment2.text=\r\n\ casasDisponiveis\ -\ M\u00E9todo\ que\ l\u00EA\ a\ pe\u00E7a\ que\ foi\ clicada\ e\ adiciona\ dois\ \ \r\n\ objetos\ do\ tipo\ Casa\ no\ tabuleiro,\ indicando\ as\ casa\ que\ a\ pe\u00E7a\ consegue\ alcan\u00E7a\r\n
+comment3.params=
+comment3.target=void\ mover()
+comment3.text=\r\n\ mover()\ -\ metodo\ que\ muda\ a\ localiza\u00E7\u00E3o\ da\ pe\u00E7a\ selecionada\ anteriormente\ \r\n\ para\ a\ localiza\u00E7\u00E3o\ do\ objeto\ Casa\ que\ foi\ clicado\ posteriormente\r\n
+numComments=4
