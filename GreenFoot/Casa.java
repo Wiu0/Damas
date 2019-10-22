@@ -1,4 +1,4 @@
-import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+//import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
  * Write a description of class Casa here.
@@ -14,18 +14,11 @@ public class Casa extends Peca
      */
     public void act() 
     {
-        pegaCasa();
+       
     }
     /**
      * pegaCasa() - método que passa o objeto do tipo Casa clicado para a classe Peca
      */
-    public void pegaCasa(){
-        if(Greenfoot.getMouseInfo()!=null){
-            if(Greenfoot.mouseClicked(this)){
-                Peca.c = this;
-            }
-        }
-    }
     public void tiraCasa(){
         getWorld().removeObjects(getWorld().getObjects(Casa.class));
     }
