@@ -16,10 +16,4 @@ public class Casa extends Peca
     {
        
     }
-    /**
-     * pegaCasa() - método que passa o objeto do tipo Casa clicado para a classe Peca
-     */
-    public void tiraCasa(){
-        getWorld().removeObjects(getWorld().getObjects(Casa.class));
-    }
 }

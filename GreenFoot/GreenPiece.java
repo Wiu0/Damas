@@ -15,8 +15,6 @@ public class GreenPiece extends Peca
     public void act() 
     {
         casasDisponiveis();
-        /*if(Peca.c!=null){
-            Peca.c.tiraCasa();
-        }*/
+        tiraCasa();
     }
 }
