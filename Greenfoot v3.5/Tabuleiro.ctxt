@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tabuleiro
+comment0.text=\n\ Write\ a\ description\ of\ class\ Tabuleiro\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Tabuleiro()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Tabuleiro.\n\ \n
+comment2.params=
+comment2.target=void\ addBP()
+comment2.text=\n\ addBP()\ -\ M\u00E9todo\ que\ adiciona\ todas\ as\ pe\u00E7as\ azuis\ na\ posi\u00E7\u00E3o\ inicial\n
+comment3.params=
+comment3.target=void\ addGP()
+comment3.text=\n\ addGP()\ -\ M\u00E9todo\ que\ adiciona\ todas\ as\ pe\u00E7as\ verdes\ na\ posi\u00E7\u00E3o\ inicial\n
+numComments=4

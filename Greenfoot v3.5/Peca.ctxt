@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Peca
+comment0.text=\n\ Write\ a\ description\ of\ class\ Peca\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Peca\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment10.params=
+comment10.target=void\ invocarBlueQueen()
+comment2.params=
+comment2.target=void\ casasDisponiveis()
+comment2.text=\n\ casasDisponiveis\ -\ M\u00E9todo\ que\ l\u00EA\ a\ pe\u00E7a\ que\ foi\ clicada\ e\ adiciona\ dois\ \ \n\ objetos\ do\ tipo\ Casa\ no\ tabuleiro,\ indicando\ as\ casa\ que\ a\ pe\u00E7a\ consegue\ alcan\u00E7a\n
+comment3.params=
+comment3.target=void\ setCasa()
+comment4.params=
+comment4.target=void\ mover()
+comment5.params=casa
+comment5.target=void\ pecaNoCaminhoGreen(java.lang.String)
+comment6.params=casa
+comment6.target=void\ pecaNoCaminhoBlue(java.lang.String)
+comment7.params=
+comment7.target=void\ tiraCasa()
+comment8.params=c\ p
+comment8.target=void\ comer(int,\ int)
+comment9.params=
+comment9.target=void\ invocarGreenQueen()
+numComments=11
